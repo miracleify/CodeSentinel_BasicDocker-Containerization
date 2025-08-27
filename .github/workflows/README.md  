@@ -1,0 +1,30 @@
+# BMI Calculator (Dockerized)
+
+A simple Node.js application that calculates Body Mass Index (BMI).  
+This project demonstrates **basic Docker containerization** and **Continuous Integration (CI) using GitHub Actions**.
+
+---
+
+## 🚀 Features
+- Calculate BMI using weight (kg) and height (m).  
+- Error handling for invalid inputs.  
+- Dockerized for easy deployment.  
+- Continuous Integration pipeline runs tests automatically on each push.  
+
+---
+
+## 🛠️ Technologies Used
+- **Node.js** (Express framework)  
+- **Jest** (Unit Testing)  
+- **Docker** (Containerization)  
+- **GitHub Actions** (CI Pipeline)  
+
+---
+
+## 📦 Installation
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/miracleify/CodeSentinel_BasicDocker-Containerization.git
+cd CodeSentinel_BasicDocker-Containerization
+npm install
